@@ -1,0 +1,63 @@
+<html>
+<head>
+<link rel="stylesheet" href="/stastic/css/bootstrap.css">
+<link rel="stylesheet" href="/stastic/css/videopage.css">
+<script src="stastic/plugins/jquery.js"></script>
+<script type="text/javascript" src="/stastic/plugins/socket.js"></script>
+<script type="text/javascript" src="/stastic/plugins/bootstrap.js"></script>
+</head>
+<body>
+<div class="col-12 text-center p-2">
+<h5>ESPN PRASER</h5>
+</div>
+<div class='row'>
+
+<div class="col-12 d-flex justify-content-center">
+<div class=''>
+<label for="basic-url" class="form-label">Your vanity URL</label>
+<div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+</div>
+</div>
+</div>
+<div class='pt-2 row d-flex justify-content-center'>
+<div class="col-3">
+
+<select class="form-select form-select-lg mb-3" id='vs' aria-label=".form-select-lg example">
+  <option value='vs Team' selected>vs Team</option>
+  <option value="In Host Country">In Host Country</option>
+  <option value="in Continent">in Continent</option>
+  <option value="Home vs Away">Home vs Away</option>
+  <option value="By Year">By Year</option>
+
+</select>
+
+</div>
+<div class="col-3">
+
+<select id='matchformat' class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+  <option value='Test' selected>Test</option>
+  <option value="odi">ODI</option>
+  <option value="T20">T20</option>
+</select>
+
+
+</div>
+
+
+</div>
+
+
+<div class='d-flex justify-content-center'>
+<input type="button" class="btn btn-primary" onclick=sendUrl() value="submit">
+</div>
+
+</div>
+
+
+<!-- <script type="text/javascript" src="/stastic/js/videopage/videopage.js"></script> -->
+<script type="text/javascript" src="/stastic/js/videopage/homescrap.js"></script>
+
+</body>
+</html>

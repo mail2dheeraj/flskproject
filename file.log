@@ -1,0 +1,21 @@
+2021-07-17 20:32:35,632 - error"s - ERROR - This is an error message
+error"s | 2021-07-17 20:34:53,183 | ERROR | This is an error message
+error: | 2021-07-17 20:35:24,781 | ERROR | This is an error message
+
+lg.basicConfig(level=lg.INFO,format='%(asctime)s | %(levelname)s | %(message)s');
+# logg=lg.getLogger()
+# logg.setLevel(lg.ERROR)
+w_handler = lg.StreamHandler()  
+w_handler.setLevel(lg.WARNING)
+e_handler = lg.FileHandler('file.log')  
+w_handler.setLevel(lg.INFO)  
+e_handler.setLevel(lg.ERROR) 
+logger_obj = lg.getLogger(__name__)
+logger_obj2 = lg.getLogger('error:')
+c_format = lg.Formatter('%(name)s | %(asctime)s | %(levelname)s | %(message)s')  
+f_format = lg.Formatter('%(name)s | %(asctime)s | %(levelname)s | %(message)s')  
+w_handler.setFormatter(c_format)  
+e_handler.setFormatter(f_format)  
+logger_obj.addHandler(w_handler)  
+logger_obj2.addHandler(e_handler)
+# logger_obj.addHandler(e_handler)   

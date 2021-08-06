@@ -1,0 +1,65 @@
+<html>
+<head>
+<link rel="stylesheet" href="/stastic/css/bootstrap.css">
+<script src="stastic/plugins/jquery.js"></script>
+<script src="stastic/plugins/bootstrap.js"></script>
+</head>
+
+<body>
+<div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Storage Locker</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+    
+      
+      </ul>
+      <form class="d-flex pt-2">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+</div>
+<div  class="container border border-success border-4 pt-5 mt-5 d-flex justify-content-center pb-5"  ondrop="dropped(event)"  ondragover="draggOver(event)">
+
+<div class="pt-5 pb-5" onclick="selectFiles()">Drag and Drop image</div>
+<input id="uploads" type="file" class="d-none" onchange="getFile()">
+</div>
+
+
+</body>
+
+<script>
+function dropped(event){
+event.preventDefault();
+console.log(event.dataTransfer.files)
+console.log('dropped');
+}
+
+function draggOver(e){
+e.preventDefault()
+console.log('drag over')
+}
+function selectFiles(){
+$('#uploads').click();
+
+}
+
+function getFile(){
+var kk=document.querySelector('#uploads').files;
+console.log(kk)
+}
+</script>
+
+
+</html>

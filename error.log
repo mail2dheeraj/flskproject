@@ -1,0 +1,274 @@
+loggin | 2021-07-22 12:30:26,804 | ERROR | This is an error message
+loggin | 2021-07-22 12:30:26,804 | CRITICAL | Dheeraj File
+loggin | 2021-08-02 22:09:45,621 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:09:45,621 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:09:47,142 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:09:47,142 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:24:17,395 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:24:17,395 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:24:17,407 | ERROR | Error inserting
+loggin | 2021-08-02 22:24:17,407 | ERROR | Error inserting
+loggin | 2021-08-02 22:24:17,417 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-02 22:24:17,417 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-02 22:24:20,514 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:24:20,514 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-02 22:24:20,527 | ERROR | Error inserting
+loggin | 2021-08-02 22:24:20,527 | ERROR | Error inserting
+loggin | 2021-08-02 22:24:20,534 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-02 22:24:20,534 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:44:52,295 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:44:52,295 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:44:52,303 | ERROR | Error inserting
+loggin | 2021-08-03 10:44:52,303 | ERROR | Error inserting
+loggin | 2021-08-03 10:44:52,306 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:44:52,306 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:44:54,035 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:44:54,035 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:44:54,048 | ERROR | Error inserting
+loggin | 2021-08-03 10:44:54,048 | ERROR | Error inserting
+loggin | 2021-08-03 10:44:54,054 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:44:54,054 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:46:15,033 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:46:15,033 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:46:15,044 | ERROR | Error inserting
+loggin | 2021-08-03 10:46:15,044 | ERROR | Error inserting
+loggin | 2021-08-03 10:46:15,052 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:46:15,052 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:46:18,515 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:46:18,515 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:46:18,531 | ERROR | Error inserting
+loggin | 2021-08-03 10:46:18,531 | ERROR | Error inserting
+loggin | 2021-08-03 10:46:18,539 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:46:18,539 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:46:19,959 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:46:19,959 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:46:19,979 | ERROR | Error inserting
+loggin | 2021-08-03 10:46:19,979 | ERROR | Error inserting
+loggin | 2021-08-03 10:46:19,987 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:46:19,987 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:12,543 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:12,543 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:12,558 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:12,558 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:12,566 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:12,566 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:19,134 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:19,134 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:19,151 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:19,151 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:19,162 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:19,162 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:27,708 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:27,708 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:27,726 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:27,726 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:27,736 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:27,736 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:29,107 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:29,107 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:49:29,124 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:29,124 | ERROR | Error inserting
+loggin | 2021-08-03 10:49:29,134 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:49:29,134 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:51:55,255 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:51:55,255 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:51:55,270 | ERROR | Error inserting
+loggin | 2021-08-03 10:51:55,270 | ERROR | Error inserting
+loggin | 2021-08-03 10:51:55,282 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:51:55,282 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:51:56,737 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:51:56,737 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 10:51:56,752 | ERROR | Error inserting
+loggin | 2021-08-03 10:51:56,752 | ERROR | Error inserting
+loggin | 2021-08-03 10:51:56,760 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 10:51:56,760 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:18:30,699 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:18:30,699 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:18:30,718 | ERROR | Error inserting
+loggin | 2021-08-03 11:18:30,718 | ERROR | Error inserting
+loggin | 2021-08-03 11:18:30,728 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:18:30,728 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:36:40,359 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:36:40,359 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:36:40,427 | ERROR | Error inserting
+loggin | 2021-08-03 11:36:40,427 | ERROR | Error inserting
+loggin | 2021-08-03 11:36:40,435 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:36:40,435 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:37:22,482 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:37:22,482 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:37:22,498 | ERROR | Error inserting
+loggin | 2021-08-03 11:37:22,498 | ERROR | Error inserting
+loggin | 2021-08-03 11:37:22,507 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:37:22,507 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:49:44,754 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:49:44,754 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:49:44,768 | ERROR | Error inserting
+loggin | 2021-08-03 11:49:44,768 | ERROR | Error inserting
+loggin | 2021-08-03 11:49:44,777 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:49:44,777 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:49:47,186 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:49:47,186 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:49:47,200 | ERROR | Error inserting
+loggin | 2021-08-03 11:49:47,200 | ERROR | Error inserting
+loggin | 2021-08-03 11:49:47,206 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:49:47,206 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:52:27,614 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:52:27,614 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:52:27,632 | ERROR | Error inserting
+loggin | 2021-08-03 11:52:27,632 | ERROR | Error inserting
+loggin | 2021-08-03 11:52:27,642 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:52:27,642 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:52:31,047 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:52:31,047 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 11:52:31,068 | ERROR | Error inserting
+loggin | 2021-08-03 11:52:31,068 | ERROR | Error inserting
+loggin | 2021-08-03 11:52:31,078 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 11:52:31,078 | ERROR | Error inserting 'ConfigurationError' object is not subscriptable
+loggin | 2021-08-03 12:00:20,399 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:20,399 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:20,402 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:20,402 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:20,403 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:20,403 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:24,198 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:24,198 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:24,204 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:24,204 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:24,207 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:24,207 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:41,395 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:41,395 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:41,529 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:41,529 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:41,604 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:41,604 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:46,886 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:46,886 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:46,889 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:46,889 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:46,891 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:46,891 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:48,793 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:48,793 | ERROR | Mongo Connection error None of DNS query names exist: _mongodb._tcp.api.2hdzl.mongodb.net., _mongodb._tcp.api.2hdzl.mongodb.net.
+loggin | 2021-08-03 12:00:48,797 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:48,797 | ERROR | Error inserting
+loggin | 2021-08-03 12:00:48,799 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:00:48,799 | ERROR | Error inserting 'ConfigurationError' object has no attribute 'super'
+loggin | 2021-08-03 12:05:45,392 | ERROR | Mongo Connection error Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus().
+loggin | 2021-08-03 12:05:45,392 | ERROR | Mongo Connection error Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus().
+loggin | 2021-08-03 12:05:45,399 | ERROR | Error inserting
+loggin | 2021-08-03 12:05:45,399 | ERROR | Error inserting
+loggin | 2021-08-03 12:05:45,402 | ERROR | Error inserting 'InvalidURI' object has no attribute 'super'
+loggin | 2021-08-03 12:05:45,402 | ERROR | Error inserting 'InvalidURI' object has no attribute 'super'
+loggin | 2021-08-03 12:05:47,253 | ERROR | Mongo Connection error Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus().
+loggin | 2021-08-03 12:05:47,253 | ERROR | Mongo Connection error Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus().
+loggin | 2021-08-03 12:05:47,260 | ERROR | Error inserting
+loggin | 2021-08-03 12:05:47,260 | ERROR | Error inserting
+loggin | 2021-08-03 12:05:47,263 | ERROR | Error inserting 'InvalidURI' object has no attribute 'super'
+loggin | 2021-08-03 12:05:47,263 | ERROR | Error inserting 'InvalidURI' object has no attribute 'super'
+loggin | 2021-08-03 12:07:36,774 | ERROR | Mongo Connection error Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus().
+loggin | 2021-08-03 12:07:36,774 | ERROR | Mongo Connection error Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus().
+loggin | 2021-08-03 12:07:36,784 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:36,784 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:36,787 | ERROR | Error inserting 'InvalidURI' object has no attribute 'super'
+loggin | 2021-08-03 12:07:36,787 | ERROR | Error inserting 'InvalidURI' object has no attribute 'super'
+loggin | 2021-08-03 12:07:44,471 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:44,471 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:44,472 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:07:44,472 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:07:50,180 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:50,180 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:50,181 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:07:50,181 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:07:52,472 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:52,472 | ERROR | Error inserting
+loggin | 2021-08-03 12:07:52,473 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:07:52,473 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:09:42,059 | ERROR | Error inserting
+loggin | 2021-08-03 12:09:42,059 | ERROR | Error inserting
+loggin | 2021-08-03 12:09:42,059 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:09:42,059 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:09:45,068 | ERROR | Error inserting
+loggin | 2021-08-03 12:09:45,068 | ERROR | Error inserting
+loggin | 2021-08-03 12:09:45,070 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:09:45,070 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:20:56,501 | ERROR | Error inserting
+loggin | 2021-08-03 12:20:56,501 | ERROR | Error inserting
+loggin | 2021-08-03 12:20:56,503 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:20:56,503 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:21:02,015 | ERROR | Error inserting
+loggin | 2021-08-03 12:21:02,015 | ERROR | Error inserting
+loggin | 2021-08-03 12:21:02,017 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:21:02,017 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:21:10,058 | ERROR | Error inserting
+loggin | 2021-08-03 12:21:10,058 | ERROR | Error inserting
+loggin | 2021-08-03 12:21:10,062 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:21:10,062 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:21:45,643 | ERROR | Error inserting
+loggin | 2021-08-03 12:21:45,643 | ERROR | Error inserting
+loggin | 2021-08-03 12:21:45,645 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:21:45,645 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:22:22,129 | ERROR | Error inserting
+loggin | 2021-08-03 12:22:22,129 | ERROR | Error inserting
+loggin | 2021-08-03 12:22:22,129 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:22:22,129 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:22:36,093 | ERROR | Error inserting
+loggin | 2021-08-03 12:22:36,093 | ERROR | Error inserting
+loggin | 2021-08-03 12:22:36,094 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:22:36,094 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:28:22,558 | ERROR | Error inserting
+loggin | 2021-08-03 12:28:22,558 | ERROR | Error inserting
+loggin | 2021-08-03 12:28:22,560 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:28:22,560 | ERROR | Error inserting 'Collection' object is not callable. If you meant to call the 'insert_one' method on a 'Database' object it is failing because no such method exists.
+loggin | 2021-08-03 12:29:04,251 | ERROR | Error inserting
+loggin | 2021-08-03 12:29:04,251 | ERROR | Error inserting
+loggin | 2021-08-03 12:29:04,252 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:29:04,252 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:29:16,631 | ERROR | Error inserting
+loggin | 2021-08-03 12:29:16,631 | ERROR | Error inserting
+loggin | 2021-08-03 12:29:16,633 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:29:16,633 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:31:05,727 | ERROR | Error inserting
+loggin | 2021-08-03 12:31:05,727 | ERROR | Error inserting
+loggin | 2021-08-03 12:31:05,728 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:31:05,728 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:31:12,028 | ERROR | Error inserting
+loggin | 2021-08-03 12:31:12,028 | ERROR | Error inserting
+loggin | 2021-08-03 12:31:12,030 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:31:12,030 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:33:34,631 | ERROR | Error inserting
+loggin | 2021-08-03 12:33:34,631 | ERROR | Error inserting
+loggin | 2021-08-03 12:33:34,632 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:33:34,632 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:33:46,965 | ERROR | Error inserting
+loggin | 2021-08-03 12:33:46,965 | ERROR | Error inserting
+loggin | 2021-08-03 12:33:46,967 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:33:46,967 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:38:50,942 | ERROR | Error inserting
+loggin | 2021-08-03 12:38:50,942 | ERROR | Error inserting
+loggin | 2021-08-03 12:38:50,944 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:38:50,944 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:39:01,932 | ERROR | Error inserting
+loggin | 2021-08-03 12:39:01,932 | ERROR | Error inserting
+loggin | 2021-08-03 12:39:01,933 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:39:01,933 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:40:30,995 | ERROR | Error inserting
+loggin | 2021-08-03 12:40:30,995 | ERROR | Error inserting
+loggin | 2021-08-03 12:40:30,997 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:40:30,997 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:40:49,360 | ERROR | Error inserting
+loggin | 2021-08-03 12:40:49,360 | ERROR | Error inserting
+loggin | 2021-08-03 12:40:49,362 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:40:49,362 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:41:56,399 | ERROR | Error inserting
+loggin | 2021-08-03 12:41:56,399 | ERROR | Error inserting
+loggin | 2021-08-03 12:41:56,400 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:41:56,400 | ERROR | Error inserting bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+loggin | 2021-08-03 12:42:18,670 | ERROR | Error inserting
+loggin | 2021-08-03 12:42:18,670 | ERROR | Error inserting
+loggin | 2021-08-03 12:42:18,671 | ERROR | Error inserting2
+loggin | 2021-08-03 12:42:18,671 | ERROR | Error inserting2
+loggin | 2021-08-03 12:42:37,094 | ERROR | Error inserting
+loggin | 2021-08-03 12:42:37,094 | ERROR | Error inserting
+loggin | 2021-08-03 12:42:37,098 | ERROR | Error inserting2
+loggin | 2021-08-03 12:42:37,098 | ERROR | Error inserting2
